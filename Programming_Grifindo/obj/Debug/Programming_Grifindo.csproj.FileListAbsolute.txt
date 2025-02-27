@@ -1,0 +1,42 @@
+C:\Users\Samuditha\Desktop\Programming_Grifindo\Programming_Grifindo\bin\Debug\Programming_Grifindo.exe.config
+C:\Users\Samuditha\Desktop\Programming_Grifindo\Programming_Grifindo\bin\Debug\Programming_Grifindo.exe
+C:\Users\Samuditha\Desktop\Programming_Grifindo\Programming_Grifindo\bin\Debug\Programming_Grifindo.pdb
+C:\Users\Samuditha\Desktop\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.csproj.AssemblyReference.cache
+C:\Users\Samuditha\Desktop\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.Form1.resources
+C:\Users\Samuditha\Desktop\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.Properties.Resources.resources
+C:\Users\Samuditha\Desktop\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.csproj.GenerateResource.cache
+C:\Users\Samuditha\Desktop\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.csproj.CoreCompileInputs.cache
+C:\Users\Samuditha\Desktop\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.exe
+C:\Users\Samuditha\Desktop\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.pdb
+C:\Users\Samuditha\Desktop\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.Dashboard.resources
+C:\Users\Samuditha\Desktop\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.Employee.resources
+C:\Users\Samuditha\Desktop\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.Salary.resources
+C:\Users\Samuditha\Desktop\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.Settings.resources
+C:\Users\Samuditha\OneDrive\Programming assignment\Programming_Grifindo\Programming_Grifindo\bin\Debug\Programming_Grifindo.exe.config
+C:\Users\Samuditha\OneDrive\Programming assignment\Programming_Grifindo\Programming_Grifindo\bin\Debug\Programming_Grifindo.exe
+C:\Users\Samuditha\OneDrive\Programming assignment\Programming_Grifindo\Programming_Grifindo\bin\Debug\Programming_Grifindo.pdb
+C:\Users\Samuditha\OneDrive\Programming assignment\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.csproj.AssemblyReference.cache
+C:\Users\Samuditha\OneDrive\Programming assignment\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.Dashboard.resources
+C:\Users\Samuditha\OneDrive\Programming assignment\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.Employee.resources
+C:\Users\Samuditha\OneDrive\Programming assignment\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.Form1.resources
+C:\Users\Samuditha\OneDrive\Programming assignment\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.Properties.Resources.resources
+C:\Users\Samuditha\OneDrive\Programming assignment\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.Salary.resources
+C:\Users\Samuditha\OneDrive\Programming assignment\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.Settings.resources
+C:\Users\Samuditha\OneDrive\Programming assignment\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.csproj.GenerateResource.cache
+C:\Users\Samuditha\OneDrive\Programming assignment\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.csproj.CoreCompileInputs.cache
+C:\Users\Samuditha\OneDrive\Programming assignment\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.exe
+C:\Users\Samuditha\OneDrive\Programming assignment\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.pdb
+C:\Users\Samuditha\OneDrive\Semester 1\Programming assignment\Programming_Grifindo\Programming_Grifindo\bin\Debug\Programming_Grifindo.exe.config
+C:\Users\Samuditha\OneDrive\Semester 1\Programming assignment\Programming_Grifindo\Programming_Grifindo\bin\Debug\Programming_Grifindo.exe
+C:\Users\Samuditha\OneDrive\Semester 1\Programming assignment\Programming_Grifindo\Programming_Grifindo\bin\Debug\Programming_Grifindo.pdb
+C:\Users\Samuditha\OneDrive\Semester 1\Programming assignment\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.csproj.AssemblyReference.cache
+C:\Users\Samuditha\OneDrive\Semester 1\Programming assignment\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.Dashboard.resources
+C:\Users\Samuditha\OneDrive\Semester 1\Programming assignment\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.Employee.resources
+C:\Users\Samuditha\OneDrive\Semester 1\Programming assignment\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.Form1.resources
+C:\Users\Samuditha\OneDrive\Semester 1\Programming assignment\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.Properties.Resources.resources
+C:\Users\Samuditha\OneDrive\Semester 1\Programming assignment\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.Salary.resources
+C:\Users\Samuditha\OneDrive\Semester 1\Programming assignment\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.Settings.resources
+C:\Users\Samuditha\OneDrive\Semester 1\Programming assignment\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.csproj.GenerateResource.cache
+C:\Users\Samuditha\OneDrive\Semester 1\Programming assignment\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.csproj.CoreCompileInputs.cache
+C:\Users\Samuditha\OneDrive\Semester 1\Programming assignment\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.exe
+C:\Users\Samuditha\OneDrive\Semester 1\Programming assignment\Programming_Grifindo\Programming_Grifindo\obj\Debug\Programming_Grifindo.pdb
